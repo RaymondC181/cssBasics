@@ -1,0 +1,16 @@
+.box {
+    width: 300px;
+    height: 300px;
+    border-radius: 5%;
+    background-color:  rgb(247, 136, 72);
+    margin: auto;
+    position: relative;
+    box-shadow: 10px 10px lightgray;
+    
+    /*
+    It took me 10 minutes to create. It took longer than expected to create the box. 
+    The position and color of box went well. 
+    */
+  }
+  
+  
